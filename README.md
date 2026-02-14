@@ -2,7 +2,7 @@
 
 # Load Balancer
 
-<img src="img.png" alt="Load Balancer Diagram" width="700" />
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Load_Balancing_Cluster_(NAT).svg" alt="Load Balancing Cluster Diagram" width="700" />
 
 </div>
 
